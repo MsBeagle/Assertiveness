@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.44.23192.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:04.928%0D%0A%3Ci%3E-That%20meal%20was%20practically%20inedible,%20I%20can\u0027t%20remember%20the%20last%20time%20I%20ate%20something%20so%20awful!%3C/i%3E%0D%0A%0D%0A"}')
